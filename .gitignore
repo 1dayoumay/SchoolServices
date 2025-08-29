@@ -58,3 +58,6 @@ coverage
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+tmp
+*.zip
